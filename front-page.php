@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 
+<link rel="stylesheet" href="assets/css/style.css" />
 <section class="hero hero-animated">
     <div class="hero-content">
         <h1><?php bloginfo('name'); ?></h1>
